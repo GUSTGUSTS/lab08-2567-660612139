@@ -2,11 +2,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 660612139
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : คณาธิป เชียงทอง
 
-Vercel URL :
+Vercel URL : lab08-2567-660612139-git-master-gustgusts-projects.vercel.app
 
 ---
 
